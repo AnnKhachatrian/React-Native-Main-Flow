@@ -4,5 +4,5 @@ Template for simple building react-native applications. Includes React-Redux, Mi
 # Run apllication flow
 1) npm start
 2) run-emu
-3)npm run-android
+3) npm run-android
 
